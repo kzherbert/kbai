@@ -1,0 +1,169 @@
+{
+    "statements":   [
+                        "the course is 10 weeks",
+                        "project 1 will be available start of week 3",
+                        "Project 1 will be due end of week 6",
+                        "projects must be turned into canvas",
+                        "assignment 1 will be released in week 6",
+                        "assignment 1 is due week 7",
+                        "the midterm occurs on week 8",
+                        "the final occurs on week 9",
+                        "the final must be submitted to piazza",
+                        "projects are submitted as zip files",
+                        "assignments are submitted as pdf files",
+                        "This is the knowledge-based AI course",
+                        "ashok goel is the instructor",
+                        "yaroslav litvak is in the course",
+                        "announcements are posted on slack",
+                        "component 1 of the class is video hours",
+                        "component 1 is available on piazza",
+                        "component 2 of the class is the ai book",
+                        "class content is 40 video hours",
+                        "course attendance is mandatory",
+                        "Example projects will be posted on canvas",
+                        "project 1 is 10% of the grade",
+                        "late submissions will get no credit",
+                        "late submissions will get 50% credit",
+                        "class for this course is on monday and wednesday",
+                        "project 2 is due end of week 9",
+                        "all submissions will be on canvas"
+                    ],
+    "questions":    [
+                        {
+                            "question": "is this a 16 week class",
+                            "answer": "no"
+                        },
+                        {
+                            "question": "does project 1 begin on week 3",
+                            "answer": "yes"
+                        },
+                        {
+                            "question": "is project 1 due on week 6",
+                            "answer": "yes"
+                        },
+                        {
+                            "question": "is project 1 available week 2",
+                            "answer": "no"
+                        },
+                        {
+                            "question": "do I submit projects to canvas",
+                            "answer": "yes"
+                        },
+                        {
+                            "question": "can I get assignment 1 in week 6",
+                            "answer": "yes"
+                        },
+                        {
+                            "question": "do I have 1 week to complete assignment 1",
+                            "answer": "yes"
+                        },
+                        {
+                            "question": "is there a midterm",
+                            "answer": "yes"
+                        },
+                        {
+                            "question": "is the final during week 9",
+                            "answer": "yes"
+                        },
+                        {
+                            "question": "do I need to check piazza everyday",
+                            "answer": "idk"
+                        },
+                        {
+                            "question": "do I turn in my project as a pdf",
+                            "answer": "no"
+                        },
+                        {
+                            "question": "do I turn in my assignments as zip files",
+                            "answer": "no"
+                        },
+                        {
+                            "question": "are there 2 projects",
+                            "answer": "yes"
+                        },
+                        {
+                            "question": "is the midterm after assignment 1",
+                            "answer": "yes"
+                        },
+                        {
+                            "question": "will I have 3 weeks to finish project 1",
+                            "answer": "yes"
+                        },
+                        {
+                            "question": "can I have 4 weeks to finish project 1",
+                            "answer": "no"
+                        },
+                        {
+                            "question": "can I start project 1 in week 2",
+                            "answer": "no"
+                        },
+                        {
+                            "question": "do I need to check Piazza daily",
+                            "answer": "idk"
+                        },
+                        {
+                            "question": "will I learn human cognition",
+                            "answer": "idk"
+                        },
+                        {
+                            "question": "is project 1 worth 15%",
+                            "answer": "idk"
+                        },
+                        {
+                            "question": "is assignment 1 worth 20%",
+                            "answer": "idk"
+                        },
+                        {
+                            "question": "does this class teach knowledge-based AI",
+                            "answer": "idk"
+                        },
+                        {
+                            "question": "are projects distributed on Canvas",
+                            "answer": "yes"
+                        },
+                        {
+                            "question": "does this class have projects and assignments",
+                            "answer": "yes"
+                        },
+                        {
+                            "question": "is there a final in this class",
+                            "answer": "yes"
+                        },
+                        {
+                            "question": "are there many projects",
+                            "answer": "yes"
+                        },
+                        {
+                            "question": "is there a procedure for project 1",
+                            "answer": "idk"
+                        },
+                        {
+                            "question": "can I submit projects to Piazza",
+                            "answer": "no"
+                        },
+                        {
+                            "question": "should I code my projects in Python",
+                            "answer": "idk"
+                        },
+                        {
+                            "question": "does project 1 contribute 15% to my grade",
+                            "answer": "no"
+                        },
+                        {
+                            "question": "do I need to write a report for project 1",
+                            "answer": "idk"
+                        },
+                        {
+                            "question": "do I need to check Piazza regularly",
+                            "answer": "idk"
+                        },
+                        {
+                            "question": "if I turn in project 1 late do I get credit",
+                            "answer": "idk"
+                        },
+                        {
+                            "question": "is Piazza the preferred method of collaboration",
+                            "answer": "idk"
+                        }
+                    ]
+}

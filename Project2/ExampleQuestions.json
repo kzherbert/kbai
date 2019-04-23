@@ -1,0 +1,319 @@
+[
+  {
+    "question": "when will assignment 10 be released",
+    "intent": 0
+  },
+  {
+    "question": "when will assignment 1 be released",
+    "intent": 1
+  },
+  {
+    "question": "when can we begin working on project 1",
+    "intent": 2
+  },
+  {
+    "question": "when can we start on assignment 2",
+    "intent": 3
+  },
+  {
+    "question": "what week is the midterm",
+    "intent": 4
+  },
+  {
+    "question": "when can i download project 2",
+    "intent": 5
+  },
+  {
+    "question": "what day does assignment 3 start",
+    "intent": 6
+  },
+  {
+    "question": "when can we begin working on project 3",
+    "intent": 7
+  },
+  {
+    "question": "when will the final open",
+    "intent": 8
+  },
+  {
+    "question": "when is assignment 1 due",
+    "intent": 9
+  },
+  {
+    "question": "when will project 1 need to be submitted",
+    "intent": 10
+  },
+  {
+    "question": "when will i need to submit assignment 2",
+    "intent": 11
+  },
+  {
+    "question": "when is the midterm due",
+    "intent": 12
+  },
+  {
+    "question": "when should we have project 2 completed by",
+    "intent": 13
+  },
+  {
+    "question": "when do I need to turn in assignment 3",
+    "intent": 14
+  },
+  {
+    "question": "when will submissions close for project 3",
+    "intent": 15
+  },
+  {
+    "question": "when do I need to turn in the final",
+    "intent": 16
+  },
+  {
+    "question": "how much time is there for submitting assignment 1",
+    "intent": 17
+  },
+  {
+    "question": "how long do we have to complete project 1",
+    "intent": 18
+  },
+  {
+    "question": "how long do we have to finish assignment 2",
+    "intent": 19
+  },
+  {
+    "question": "how long do we have to complete the midterm",
+    "intent": 20
+  },
+  {
+    "question": "how long do we have to do project 2",
+    "intent": 21
+  },
+  {
+    "question": "how many weeks to write assignment 3",
+    "intent": 22
+  },
+  {
+    "question": "How many weeks to code project 3",
+    "intent": 23
+  },
+  {
+    "question": "How many days to complete the final",
+    "intent": 24
+  },
+  {
+    "question": "what percentage of my grade is assignment 1 worth",
+    "intent": 25
+  },
+  {
+    "question": "how much is project 1 worth",
+    "intent": 26
+  },
+  {
+    "question": "what is the weight of assignment 2",
+    "intent": 27
+  },
+  {
+    "question": "how much will the midterm be worth",
+    "intent": 28
+  },
+  {
+    "question": "what percentage of the total grade is project 2",
+    "intent": 29
+  },
+  {
+    "question": "how much does assignment 3 contribute to my grade",
+    "intent": 30
+  },
+  {
+    "question": "how much is project 3 contributing to my grade",
+    "intent": 31
+  },
+  {
+    "question": "how much is the final worth",
+    "intent": 32
+  },
+  {
+    "question": "what is the process for submitting assignment 1",
+    "intent": 33
+  },
+  {
+    "question": "what is the process of getting project 1",
+    "intent": 34
+  },
+  {
+    "question": "where do i turn in assignment 2",
+    "intent": 35
+  },
+  {
+    "question": "where do i turn in my midterm",
+    "intent": 36
+  },
+  {
+    "question": "How do I turn in project 2",
+    "intent": 37
+  },
+  {
+    "question": "where do i submit assignment 3",
+    "intent": 38
+  },
+  {
+    "question": "where do i submit project 3",
+    "intent": 39
+  },
+  {
+    "question": "what is the procedure for submitting the final",
+    "intent": 40
+  },
+  {
+    "question": "where do i go to get class announcements",
+    "intent": 41
+  },
+  {
+    "question": "what are the primary learning goals for the class",
+    "intent": 42
+  },
+  {
+    "question": "how do I know where announcements are released",
+    "intent": 41
+  },
+  {
+    "question": "how do I know where are announcements released",
+    "intent": 41
+  },
+  {
+    "question": "how frequently must I log into piazza",
+    "intent": 41
+  },
+  {
+    "question": "what will we use piazza for",
+    "intent": 41
+  },
+  {
+    "question": "what will be the class forum",
+    "intent": 41
+  },
+  {
+    "question": "what is the primary forum",
+    "intent": 41
+  },
+  {
+    "question": "what is the primary forum of this class",
+    "intent": 41
+  },
+  {
+    "question": "how important is it to log into piazza daily",
+    "intent": 41
+  },{
+    "question": "how important is it to log into piazza regularly",
+    "intent": 41
+  },
+  {
+    "question": "what are the 3 learning goals of this class",
+    "intent": 42
+  },
+  {
+    "question": "when is the second midterm due",
+    "intent": 0
+  },{
+    "question": "how do I know how much project 2 is worth",
+    "intent": 0
+  },
+  {
+    "question": "how do I know where to submit project 1",
+    "intent": 34
+  },
+  {
+    "question": "how do I know when to submit project 1",
+    "intent": 10
+  },
+  {
+    "question": "what percentage of learning goals is ai skills",
+    "intent": 42
+  },
+  {
+    "question": "what file must we submit for the second project",
+    "intent": 37
+  },
+  {
+    "question": "what file do we download at canvas",
+    "intent": 0
+  },
+  {
+    "question": "what file do we download at piazza",
+    "intent": 0
+  },
+  {
+    "question": "how do we submit the code for project 2",
+    "intent": 37
+  },
+  {
+    "question": "how do we submit the report for project 2",
+    "intent": 37
+  },
+  {
+    "question": "how do we submit the report for assignment 2",
+    "intent": 35
+  },
+  {
+    "question": "how do we submit the code for assignment 2",
+    "intent": 0
+  },
+  {
+    "question": "how do we submit the code for the final",
+    "intent": 0
+  },
+  {
+    "question": "when is the midterm",
+    "intent": 4
+  },{
+    "question": "when is the final",
+    "intent": 8
+  },
+  {
+    "question": "what is the relationship between human cognition and ai",
+    "intent": 0
+  },
+  {
+    "question": "when will project 1 be available",
+    "intent": 2
+  },
+  {
+    "question": "how do I submit project 4",
+    "intent": 0
+  },
+  {
+    "question": "where do I need to turn in project",
+    "intent": 0
+  },
+  {
+    "question": "where can I download the midterm",
+    "intent": 0
+  },
+  {
+    "question": "Where are the announcements",
+    "intent": 41
+  },
+  {
+    "question": "What is the procedure for submitting assignment 1",
+    "intent": 33
+  },
+  {
+    "question": "What project do I turn in by week 6",
+    "intent": 0
+  },
+  {
+    "question": "When will project 2 be distributed",
+    "intent": 5
+  },
+  {
+    "question": "When can we start on project 3",
+    "intent": 7
+  },
+  {
+    "question": "What project can we start during week 3",
+    "intent": 0
+  },
+  {
+    "question": "What percentage of my final grade is project 3",
+    "intent": 31
+  }
+]

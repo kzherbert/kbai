@@ -1,0 +1,127 @@
+[
+    {
+        "question":"when is the project due",
+        "object":"project",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"when is the first project due",
+        "object":"first project",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"when is project 1 due",
+        "object":"project 1",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"what is the due date for project 1",
+        "object":"project 1",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"when is the project released",
+        "object":"project",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"how much is the project worth",
+        "object":"project",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question":"where do I turn in my project",
+        "object":"project",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"where is the project specification",
+        "object":"project specification",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"how long do we have to complete a project",
+        "object":"project",
+        "data_requested":"DURATION"
+    },
+    {
+        "question":"What is the project2 release date",
+        "object":"project2",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"What percentage of my grade will the project be worth",
+        "object":"project",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question":"What is the procedure for submitting project 1",
+        "object":"project 1",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question": "When must project 3 be turned in",
+        "object": "project 3",
+        "data_requested": "DUEDATE"
+    },
+    {
+        "question": "When will the ticket be released?",
+        "object": "ticket",
+        "data_requested": "RELEASEDATE"
+    },
+    {
+        "question": "When can we begin working on the dog",
+        "object": "dog",
+        "data_requested": "RELEASEDATE"
+    },
+    {
+        "question": "When is the horse going to be released",
+        "object": "horse",
+        "data_requested": "RELEASEDATE"
+    },
+    {
+        "question": "Where can I find the course syllabus",
+        "object": "course syllabus",
+        "data_requested": "PROCESS"
+    },
+    {
+        "question": "Where is the first project located",
+        "object": "first project",
+        "data_requested": "PROCESS"
+    },
+    {
+        "question": "Where can I find the course syllabus",
+        "object": "course syllabus",
+        "data_requested": "PROCESS"
+    },
+    {
+        "question": "Where do I turn in project 1",
+        "object": "project 1",
+        "data_requested": "PROCESS"
+    },
+    {
+        "question": "where is the project specification",
+        "object": "project specification",
+        "data_requested": "PROCESS"
+    },
+    {
+        "question": "How much does the project contribute to my grade",
+        "object": "project",
+        "data_requested": "WEIGHT"
+    },
+    {
+        "question": "How do I download project 1",
+        "object": "project 1",
+        "data_requested": "PROCESS"
+    },
+    {
+        "question": "how much is the project worth",
+        "object": "project",
+        "data_requested": "WEIGHT"
+    },
+    {
+        "question": "how long do we have to complete a project",
+        "object": "project",
+        "data_requested": "DURATION"
+    }
+]

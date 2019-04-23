@@ -1,0 +1,372 @@
+['when', 'will', 'assignment', '10', 'be', 'released']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 70}
+uk
+uk
+['when', 'will', 'assignment', '1', 'be', 'released']
+{'ass1': 100, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 70}
+ass1
+{'RELEASEDATE': 1, 'DUEDATE': 1, 'DURATION': 0, 'WEIGHT': 0, 'PROCESS': 0, 'GENERAL': 0}
+RELEASEDATE
+['when', 'can', 'we', 'begin', 'working', 'on', 'project', '1']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 100, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 90}
+proj1
+{'RELEASEDATE': 2, 'DUEDATE': 1, 'DURATION': 0, 'WEIGHT': 0, 'PROCESS': 0, 'GENERAL': 0}
+RELEASEDATE
+['when', 'can', 'we', 'start', 'on', 'assignment', '2']
+{'ass1': 0, 'ass2': 100, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 80}
+ass2
+{'RELEASEDATE': 2, 'DUEDATE': 1, 'DURATION': 0, 'WEIGHT': 0, 'PROCESS': 0, 'GENERAL': 0}
+RELEASEDATE
+['what', 'week', 'is', 'the', 'midterm']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 100, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 50}
+midterm
+{'RELEASEDATE': 0, 'DUEDATE': 0, 'DURATION': 0, 'WEIGHT': 0, 'PROCESS': 0, 'GENERAL': 0}
+RELEASEDATE
+['when', 'can', 'i', 'download', 'project', '2']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 100, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 70}
+proj2
+{'RELEASEDATE': 1, 'DUEDATE': 1, 'DURATION': 0, 'WEIGHT': 0, 'PROCESS': 0, 'GENERAL': 0}
+RELEASEDATE
+['what', 'day', 'does', 'assignment', '3', 'start']
+{'ass1': 0, 'ass2': 0, 'ass3': 100, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 70}
+ass3
+{'RELEASEDATE': 1, 'DUEDATE': 0, 'DURATION': 0, 'WEIGHT': 0, 'PROCESS': 0, 'GENERAL': 0}
+RELEASEDATE
+['when', 'can', 'we', 'begin', 'working', 'on', 'project', '3']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 100, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 90}
+proj3
+{'RELEASEDATE': 2, 'DUEDATE': 1, 'DURATION': 0, 'WEIGHT': 0, 'PROCESS': 0, 'GENERAL': 0}
+RELEASEDATE
+['when', 'will', 'the', 'final', 'open']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 100, 'piazza': 0, 'goals': 0, 'uk': 50}
+final
+{'RELEASEDATE': 2, 'DUEDATE': 1, 'DURATION': 0, 'WEIGHT': 0, 'PROCESS': 0, 'GENERAL': 0}
+RELEASEDATE
+['when', 'is', 'assignment', '1', 'due']
+{'ass1': 100, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 60}
+ass1
+{'RELEASEDATE': 1, 'DUEDATE': 2, 'DURATION': 0, 'WEIGHT': 0, 'PROCESS': 0, 'GENERAL': 0}
+DUEDATE
+['when', 'will', 'project', '1', 'need', 'to', 'be', 'submitted']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 100, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 90}
+proj1
+{'RELEASEDATE': 1, 'DUEDATE': 2, 'DURATION': 0, 'WEIGHT': 0, 'PROCESS': 0, 'GENERAL': 0}
+DUEDATE
+['when', 'will', 'i', 'need', 'to', 'submit', 'assignment', '2']
+{'ass1': 0, 'ass2': 100, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 90}
+ass2
+{'RELEASEDATE': 1, 'DUEDATE': 2, 'DURATION': 0, 'WEIGHT': 0, 'PROCESS': 0, 'GENERAL': 0}
+DUEDATE
+['when', 'is', 'the', 'midterm', 'due']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 100, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 50}
+midterm
+{'RELEASEDATE': 1, 'DUEDATE': 2, 'DURATION': 0, 'WEIGHT': 0, 'PROCESS': 0, 'GENERAL': 0}
+DUEDATE
+['when', 'should', 'we', 'have', 'project', '2', 'completed', 'by']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 100, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 90}
+proj2
+{'RELEASEDATE': 1, 'DUEDATE': 6, 'DURATION': 0, 'WEIGHT': 0, 'PROCESS': 0, 'GENERAL': 0}
+DUEDATE
+['when', 'do', 'i', 'need', 'to', 'turn', 'in', 'assignment', '3']
+{'ass1': 0, 'ass2': 0, 'ass3': 100, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 100}
+ass3
+{'RELEASEDATE': 1, 'DUEDATE': 7, 'DURATION': 0, 'WEIGHT': 0, 'PROCESS': 1, 'GENERAL': 0}
+DUEDATE
+['when', 'will', 'submissions', 'close', 'for', 'project', '3']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 100, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 80}
+proj3
+{'RELEASEDATE': 1, 'DUEDATE': 6, 'DURATION': 0, 'WEIGHT': 0, 'PROCESS': 0, 'GENERAL': 0}
+DUEDATE
+['when', 'do', 'i', 'need', 'to', 'turn', 'in', 'the', 'final']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 100, 'piazza': 0, 'goals': 0, 'uk': 90}
+final
+{'RELEASEDATE': 1, 'DUEDATE': 7, 'DURATION': 0, 'WEIGHT': 0, 'PROCESS': 1, 'GENERAL': 0}
+DUEDATE
+['how', 'much', 'time', 'is', 'there', 'for', 'submitting', 'assignment', '1']
+{'ass1': 100, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 100}
+ass1
+{'RELEASEDATE': 0, 'DUEDATE': 0, 'DURATION': 12, 'WEIGHT': 7, 'PROCESS': 1, 'GENERAL': 0}
+DURATION
+['how', 'long', 'do', 'we', 'have', 'to', 'complete', 'project', '1']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 100, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 100}
+proj1
+{'RELEASEDATE': 0, 'DUEDATE': 0, 'DURATION': 7, 'WEIGHT': 1, 'PROCESS': 2, 'GENERAL': 0}
+DURATION
+['how', 'long', 'do', 'we', 'have', 'to', 'finish', 'assignment', '2']
+{'ass1': 0, 'ass2': 100, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 100}
+ass2
+{'RELEASEDATE': 0, 'DUEDATE': 0, 'DURATION': 7, 'WEIGHT': 1, 'PROCESS': 2, 'GENERAL': 0}
+DURATION
+['how', 'long', 'do', 'we', 'have', 'to', 'complete', 'the', 'midterm']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 100, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 90}
+midterm
+{'RELEASEDATE': 0, 'DUEDATE': 0, 'DURATION': 7, 'WEIGHT': 1, 'PROCESS': 2, 'GENERAL': 0}
+DURATION
+['how', 'long', 'do', 'we', 'have', 'to', 'do', 'project', '2']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 100, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 100}
+proj2
+{'RELEASEDATE': 0, 'DUEDATE': 0, 'DURATION': 7, 'WEIGHT': 1, 'PROCESS': 3, 'GENERAL': 0}
+DURATION
+['how', 'many', 'weeks', 'to', 'write', 'assignment', '3']
+{'ass1': 0, 'ass2': 0, 'ass3': 100, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 80}
+ass3
+{'RELEASEDATE': 0, 'DUEDATE': 0, 'DURATION': 1, 'WEIGHT': 1, 'PROCESS': 1, 'GENERAL': 0}
+DURATION
+['how', 'many', 'weeks', 'to', 'code', 'project', '3']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 100, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 80}
+proj3
+{'RELEASEDATE': 0, 'DUEDATE': 0, 'DURATION': 1, 'WEIGHT': 1, 'PROCESS': 1, 'GENERAL': 0}
+DURATION
+['how', 'many', 'days', 'to', 'complete', 'the', 'final']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 100, 'piazza': 0, 'goals': 0, 'uk': 70}
+final
+{'RELEASEDATE': 0, 'DUEDATE': 0, 'DURATION': 1, 'WEIGHT': 1, 'PROCESS': 1, 'GENERAL': 0}
+DURATION
+['what', 'percentage', 'of', 'my', 'grade', 'is', 'assignment', '1', 'worth']
+{'ass1': 100, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 100}
+ass1
+{'RELEASEDATE': 0, 'DUEDATE': 0, 'DURATION': 0, 'WEIGHT': 3, 'PROCESS': 0, 'GENERAL': 0}
+WEIGHT
+['how', 'much', 'is', 'project', '1', 'worth']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 100, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 70}
+proj1
+{'RELEASEDATE': 0, 'DUEDATE': 0, 'DURATION': 6, 'WEIGHT': 8, 'PROCESS': 1, 'GENERAL': 0}
+WEIGHT
+['what', 'is', 'the', 'weight', 'of', 'assignment', '2']
+{'ass1': 0, 'ass2': 100, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 80}
+ass2
+{'RELEASEDATE': 0, 'DUEDATE': 0, 'DURATION': 0, 'WEIGHT': 6, 'PROCESS': 0, 'GENERAL': 0}
+WEIGHT
+['how', 'much', 'will', 'the', 'midterm', 'be', 'worth']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 100, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 70}
+midterm
+{'RELEASEDATE': 0, 'DUEDATE': 0, 'DURATION': 6, 'WEIGHT': 8, 'PROCESS': 1, 'GENERAL': 0}
+WEIGHT
+['what', 'percentage', 'of', 'the', 'total', 'grade', 'is', 'project', '2']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 100, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 100}
+proj2
+{'RELEASEDATE': 0, 'DUEDATE': 0, 'DURATION': 0, 'WEIGHT': 2, 'PROCESS': 0, 'GENERAL': 0}
+WEIGHT
+['how', 'much', 'does', 'assignment', '3', 'contribute', 'to', 'my', 'grade']
+{'ass1': 0, 'ass2': 0, 'ass3': 100, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 100}
+ass3
+{'RELEASEDATE': 0, 'DUEDATE': 0, 'DURATION': 6, 'WEIGHT': 8, 'PROCESS': 1, 'GENERAL': 0}
+WEIGHT
+['how', 'much', 'is', 'project', '3', 'contributing', 'to', 'my', 'grade']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 100, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 100}
+proj3
+{'RELEASEDATE': 0, 'DUEDATE': 0, 'DURATION': 6, 'WEIGHT': 8, 'PROCESS': 1, 'GENERAL': 0}
+WEIGHT
+['how', 'much', 'is', 'the', 'final', 'worth']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 100, 'piazza': 0, 'goals': 0, 'uk': 60}
+final
+{'RELEASEDATE': 0, 'DUEDATE': 0, 'DURATION': 6, 'WEIGHT': 8, 'PROCESS': 1, 'GENERAL': 0}
+WEIGHT
+['what', 'is', 'the', 'process', 'for', 'submitting', 'assignment', '1']
+{'ass1': 100, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 90}
+ass1
+{'RELEASEDATE': 0, 'DUEDATE': 0, 'DURATION': 0, 'WEIGHT': 0, 'PROCESS': 1, 'GENERAL': 0}
+PROCESS
+['what', 'is', 'the', 'process', 'of', 'getting', 'project', '1']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 100, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 90}
+proj1
+{'RELEASEDATE': 0, 'DUEDATE': 0, 'DURATION': 0, 'WEIGHT': 0, 'PROCESS': 1, 'GENERAL': 0}
+PROCESS
+['where', 'do', 'i', 'turn', 'in', 'assignment', '2']
+{'ass1': 0, 'ass2': 100, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 80}
+ass2
+{'RELEASEDATE': 0, 'DUEDATE': 6, 'DURATION': 0, 'WEIGHT': 0, 'PROCESS': 7, 'GENERAL': 0}
+PROCESS
+['where', 'do', 'i', 'turn', 'in', 'my', 'midterm']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 100, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 70}
+midterm
+{'RELEASEDATE': 0, 'DUEDATE': 6, 'DURATION': 0, 'WEIGHT': 0, 'PROCESS': 7, 'GENERAL': 0}
+PROCESS
+['how', 'do', 'i', 'turn', 'in', 'project', '2']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 100, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 80}
+proj2
+{'RELEASEDATE': 0, 'DUEDATE': 6, 'DURATION': 1, 'WEIGHT': 1, 'PROCESS': 7, 'GENERAL': 0}
+PROCESS
+['where', 'do', 'i', 'submit', 'assignment', '3']
+{'ass1': 0, 'ass2': 0, 'ass3': 100, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 70}
+ass3
+{'RELEASEDATE': 0, 'DUEDATE': 1, 'DURATION': 0, 'WEIGHT': 0, 'PROCESS': 7, 'GENERAL': 0}
+PROCESS
+['where', 'do', 'i', 'submit', 'project', '3']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 100, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 70}
+proj3
+{'RELEASEDATE': 0, 'DUEDATE': 1, 'DURATION': 0, 'WEIGHT': 0, 'PROCESS': 7, 'GENERAL': 0}
+PROCESS
+['what', 'is', 'the', 'procedure', 'for', 'submitting', 'the', 'final']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 100, 'piazza': 0, 'goals': 0, 'uk': 80}
+final
+{'RELEASEDATE': 0, 'DUEDATE': 0, 'DURATION': 0, 'WEIGHT': 0, 'PROCESS': 1, 'GENERAL': 0}
+PROCESS
+['where', 'do', 'i', 'go', 'to', 'get', 'class', 'announcements']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 100, 'goals': 0, 'uk': 80}
+piazza
+GENERAL
+['what', 'are', 'the', 'primary', 'learning', 'goals', 'for', 'the', 'class']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 100, 'uk': 80}
+goals
+GENERAL
+['how', 'do', 'i', 'know', 'where', 'announcements', 'are', 'released']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 100, 'goals': 0, 'uk': 80}
+piazza
+GENERAL
+['how', 'do', 'i', 'know', 'where', 'are', 'announcements', 'released']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 100, 'goals': 0, 'uk': 80}
+piazza
+GENERAL
+['how', 'frequently', 'must', 'i', 'log', 'into', 'piazza']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 100, 'goals': 0, 'uk': 70}
+piazza
+GENERAL
+['what', 'will', 'we', 'use', 'piazza', 'for']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 100, 'goals': 0, 'uk': 60}
+piazza
+GENERAL
+['what', 'will', 'be', 'the', 'class', 'forum']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 100, 'goals': 0, 'uk': 60}
+piazza
+GENERAL
+['what', 'is', 'the', 'primary', 'forum']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 100, 'goals': 0, 'uk': 50}
+piazza
+GENERAL
+['what', 'is', 'the', 'primary', 'forum', 'of', 'this', 'class']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 100, 'goals': 0, 'uk': 80}
+piazza
+GENERAL
+['how', 'important', 'is', 'it', 'to', 'log', 'into', 'piazza', 'daily']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 100, 'goals': 0, 'uk': 90}
+piazza
+GENERAL
+['how', 'important', 'is', 'it', 'to', 'log', 'into', 'piazza', 'regularly']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 100, 'goals': 0, 'uk': 90}
+piazza
+GENERAL
+['what', 'are', 'the', '3', 'learning', 'goals', 'of', 'this', 'class']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 100, 'uk': 80}
+goals
+GENERAL
+['when', 'is', 'the', 'second', 'midterm', 'due']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 100, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 60}
+midterm
+{'RELEASEDATE': 1, 'DUEDATE': 2, 'DURATION': 0, 'WEIGHT': 0, 'PROCESS': 0, 'GENERAL': 0}
+DUEDATE
+['how', 'do', 'i', 'know', 'how', 'much', 'project', '2', 'is', 'worth']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 100, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 110}
+uk
+uk
+['how', 'do', 'i', 'know', 'where', 'to', 'submit', 'project', '1']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 100, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 100}
+proj1
+{'RELEASEDATE': 0, 'DUEDATE': 1, 'DURATION': 1, 'WEIGHT': 1, 'PROCESS': 8, 'GENERAL': 0}
+PROCESS
+['how', 'do', 'i', 'know', 'when', 'to', 'submit', 'project', '1']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 100, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 100}
+proj1
+DUEDATE
+['what', 'percentage', 'of', 'learning', 'goals', 'is', 'ai', 'skills']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 100, 'uk': 70}
+goals
+GENERAL
+['what', 'file', 'must', 'we', 'submit', 'for', 'the', 'second', 'project']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 90}
+uk
+uk
+['what', 'file', 'do', 'we', 'download', 'at', 'canvas']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 70}
+uk
+uk
+['what', 'file', 'do', 'we', 'download', 'at', 'piazza']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 100, 'goals': 0, 'uk': 70}
+piazza
+GENERAL
+['how', 'do', 'we', 'submit', 'the', 'code', 'for', 'project', '2']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 100, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 100}
+proj2
+{'RELEASEDATE': 0, 'DUEDATE': 1, 'DURATION': 1, 'WEIGHT': 1, 'PROCESS': 7, 'GENERAL': 0}
+PROCESS
+['how', 'do', 'we', 'submit', 'the', 'report', 'for', 'project', '2']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 100, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 100}
+proj2
+{'RELEASEDATE': 0, 'DUEDATE': 1, 'DURATION': 1, 'WEIGHT': 1, 'PROCESS': 7, 'GENERAL': 0}
+PROCESS
+['how', 'do', 'we', 'submit', 'the', 'report', 'for', 'assignment', '2']
+{'ass1': 0, 'ass2': 100, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 100}
+ass2
+{'RELEASEDATE': 0, 'DUEDATE': 1, 'DURATION': 1, 'WEIGHT': 1, 'PROCESS': 7, 'GENERAL': 0}
+PROCESS
+['how', 'do', 'we', 'submit', 'the', 'code', 'for', 'assignment', '2']
+{'ass1': 0, 'ass2': 100, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 200}
+uk
+uk
+['how', 'do', 'we', 'submit', 'the', 'code', 'for', 'the', 'final']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 100, 'piazza': 0, 'goals': 0, 'uk': 190}
+uk
+uk
+['when', 'is', 'the', 'midterm']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 100, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 40}
+midterm
+{'RELEASEDATE': 1, 'DUEDATE': 1, 'DURATION': 0, 'WEIGHT': 0, 'PROCESS': 0, 'GENERAL': 0}
+RELEASEDATE
+['when', 'is', 'the', 'final']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 100, 'piazza': 0, 'goals': 0, 'uk': 40}
+final
+{'RELEASEDATE': 1, 'DUEDATE': 1, 'DURATION': 0, 'WEIGHT': 0, 'PROCESS': 0, 'GENERAL': 0}
+RELEASEDATE
+['what', 'is', 'the', 'relationship', 'between', 'human', 'cognition', 'and', 'ai']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 90}
+uk
+uk
+['when', 'will', 'project', '1', 'be', 'available']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 100, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 70}
+proj1
+{'RELEASEDATE': 2, 'DUEDATE': 1, 'DURATION': 0, 'WEIGHT': 0, 'PROCESS': 0, 'GENERAL': 0}
+RELEASEDATE
+['how', 'do', 'i', 'submit', 'project', '4']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 70}
+uk
+uk
+['where', 'do', 'i', 'need', 'to', 'turn', 'in', 'project']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 80}
+uk
+uk
+['where', 'can', 'i', 'download', 'the', 'midterm']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 100, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 160}
+uk
+uk
+['where', 'are', 'the', 'announcements']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 100, 'goals': 0, 'uk': 40}
+piazza
+GENERAL
+['what', 'is', 'the', 'procedure', 'for', 'submitting', 'assignment', '1']
+{'ass1': 100, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 90}
+ass1
+{'RELEASEDATE': 0, 'DUEDATE': 0, 'DURATION': 0, 'WEIGHT': 0, 'PROCESS': 1, 'GENERAL': 0}
+PROCESS
+['what', 'project', 'do', 'i', 'turn', 'in', 'by', 'week', '6']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 100}
+uk
+uk
+['when', 'will', 'project', '2', 'be', 'distributed']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 100, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 70}
+proj2
+{'RELEASEDATE': 1, 'DUEDATE': 1, 'DURATION': 0, 'WEIGHT': 0, 'PROCESS': 0, 'GENERAL': 0}
+RELEASEDATE
+['when', 'can', 'we', 'start', 'on', 'project', '3']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 100, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 80}
+proj3
+{'RELEASEDATE': 2, 'DUEDATE': 1, 'DURATION': 0, 'WEIGHT': 0, 'PROCESS': 0, 'GENERAL': 0}
+RELEASEDATE
+['what', 'project', 'can', 'we', 'start', 'during', 'week', '3']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 0, 'midterm': 0, 'final': 0, 'piazza': 0, 'goals': 0, 'uk': 90}
+uk
+uk
+['what', 'percentage', 'of', 'my', 'final', 'grade', 'is', 'project', '3']
+{'ass1': 0, 'ass2': 0, 'ass3': 0, 'proj1': 0, 'proj2': 0, 'proj3': 100, 'midterm': 0, 'final': 100, 'piazza': 0, 'goals': 0, 'uk': 100}
+proj3
+{'RELEASEDATE': 0, 'DUEDATE': 0, 'DURATION': 0, 'WEIGHT': 2, 'PROCESS': 0, 'GENERAL': 0}
+WEIGHT
